@@ -11,14 +11,10 @@
             "id": "4cf844963d4f784d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/ལམ་རིམ་འཇམ་དཔལ་ཞལ་ལུང་།.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ལམ་རིམ་འཇམ་དཔལ་ཞལ་ལུང་།"
+              "title": "New tab"
             }
           }
         ]
@@ -199,6 +195,7 @@
   },
   "active": "4cf844963d4f784d",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ལམ་རིམ་འཇམ་དཔལ་ཞལ་ལུང་།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -233,7 +230,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/create-skill/SKILL.md"
   ]
 }
